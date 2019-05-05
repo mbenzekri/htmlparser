@@ -1,0 +1,21 @@
+{
+  "name": "ztparser",
+  "version": "1.0.0",
+  "description": "Zone turf parser for data extraction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@types/jquery": "^3.3.29",
+    "@types/jsdom": "^12.2.1",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
